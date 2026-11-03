@@ -1,0 +1,17 @@
+streamlit
+torch
+torchvision
+opencv-python-headless
+albumentations
+segmentation-models-pytorch
+numpy
+osmnx
+geopy
+geopandas
+shapely
+folium
+streamlit-folium
+requests
+reportlab
+matplotlib
+imageio-ffmpeg
