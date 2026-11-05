@@ -92,7 +92,7 @@ def load_model():
     state = torch.load(
         MODEL_PATH,
         map_location=DEVICE,
-        weights_only=True,
+        weights_only=False,
     )
     model.load_state_dict(state)
     model.eval()
